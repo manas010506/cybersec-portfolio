@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+
+# Personal study/planning docs - never commit
+_private/
+*_Manas*.pdf
