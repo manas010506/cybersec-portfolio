@@ -1,7 +1,7 @@
 # Nmap
 
 > **Platform:** TryHackMe · **Phase:** 1 (Foundations) · **Difficulty:** Easy–Med
-> **Date completed:** 2026-XX-XX · **Time spent:** ~2h
+> **Date completed:** 2026-07-15 · **Time spent:** ~2h
 > **Status:** ✅ Complete
 >
 > *This is a worked EXAMPLE showing the depth to aim for. Compare it to your

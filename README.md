@@ -82,7 +82,7 @@ for a worked example of the depth I aim for.
 ---
 
 ## 📜 Certifications
-- **ISC2 Certified in Cybersecurity (CC)** — August 2026 · [Verify on Credly](ADD_YOUR_CREDLY_BADGE_URL)
+- **ISC2 Certified in Cybersecurity (CC)** — August 2026 · [Verify on Credly](https://www.credly.com/badges/c58bf41a-53a0-4375-90e4-7d8e33dc8754/public_url)
 
 ---
 
