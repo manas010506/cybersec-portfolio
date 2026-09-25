@@ -36,8 +36,8 @@ cybersec-portfolio/
 ### TryHackMe — Master Roadmap
 | Phase | Focus | Status |
 |---|---|---|
-| 1 | Foundations (Linux, Networking, Nmap, Wireshark) | 🔄 In progress |
-| 2 | SOC Core (MITRE, YARA, Sigma, Splunk, SIEM) | ⬜ Next |
+| 1 | Foundations (Linux, Networking, Nmap, Wireshark) | ✅ |
+| 2 | SOC Core (SIEM, Splunk, Windows Event Logs, MITRE, Sigma) | 🔄 In progress |
 | 3 | Cloud Security (AWS, IAM, S3, CloudTrail) | ⬜ Planned |
 | 4 | Active Directory | ⬜ Planned |
 | 5 | Incident Response & Forensics | ⬜ Planned |
@@ -74,7 +74,7 @@ for a worked example of the depth I aim for.
 
 **Operating Systems:** Linux (CLI, permissions, processes, SSH), Windows
 **Networking:** TCP/IP, OSI, Nmap, Wireshark/TShark, host discovery
-**SOC / Blue Team:** MITRE ATT&CK, Windows Event Logs, log analysis *(in progress: YARA, Sigma, Splunk)*
+**SOC / Blue Team:** MITRE ATT&CK, Windows Event Logs, Splunk, SIEM fundamentals, log analysis *(in progress: Sigma)**
 **Web Security:** Burp Suite, OWASP Top 10, SQL injection *(in progress: XSS, SSRF, auth flaws)*
 **Cloud:** AWS fundamentals *(in progress: IAM, S3, CloudTrail)*
 **Languages:** Python (scripting & automation)
