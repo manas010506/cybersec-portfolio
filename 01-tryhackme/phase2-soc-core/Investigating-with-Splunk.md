@@ -162,7 +162,6 @@ Investigated a multi-stage intrusion in Splunk by analyzing Windows logs, pivoti
 ---
 
 ## TODO after MITRE
-<!-- Come back once the MITRE room is done and map the chain to ATT&CK technique
-IDs: account creation (persistence), WMIC remote execution (T1047), encoded
-PowerShell (T1059.001 + obfuscation). That mapping is what turns this from a
-walkthrough into a detection-engineering artifact. -->
+Account creation → Persistence — T1136, Create Account
+WMIC remote execution → Execution / Lateral Movement — T1047, Windows Management Instrumentation
+Encoded PowerShell → Execution — T1059.001, PowerShell, with T1027 Obfuscated Files or Information
